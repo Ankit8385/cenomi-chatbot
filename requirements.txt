@@ -1,0 +1,10 @@
+pydantic
+psycopg2
+dotenv
+langchain_google_genai
+langchain 
+langgraph
+langchain_huggingface
+langchain_community
+typing
+datetime
